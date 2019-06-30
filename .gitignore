@@ -1,0 +1,11 @@
+*
+!*.*
+!*/
+*.d
+*.o
+*.tgz
+*.a
+*.ps
+testcase/result
+src/
+.vscode/
