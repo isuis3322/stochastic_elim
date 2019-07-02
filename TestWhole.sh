@@ -26,9 +26,9 @@ fi
 echo "# Benchmark testing..."
 TEMP_EXE=$Root_Dir/src/abc/abc
 
-CASES_DIR=$Root_Dir/testcase/case
-RESULT_DIR=$Root_Dir/testcase/result
-test -e "$Root_Dir/testcase" || mkdir "$Root_Dir/testcase"
+CASES_DIR=$Root_Dir/testcases/case
+RESULT_DIR=$Root_Dir/testcases/result
+test -e "$Root_Dir/testcases" || mkdir "$Root_Dir/testcases"
 test -e "$RESULT_DIR" || mkdir "$RESULT_DIR"
 
 if [ -e $CASES_DIR ]; then
