@@ -26,5 +26,6 @@ export TESTSCRIPT
 # ====== Main Function============
 bash ./run_my_ssat.sh      #
 bash ./run_neinze_ssat.sh      #
+bash ./run_dcssat.sh      #
 
 
