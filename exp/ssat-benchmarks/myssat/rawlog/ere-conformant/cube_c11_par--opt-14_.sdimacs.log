@@ -1,0 +1,8 @@
+ssat_solver_solve2
+#level: 3
+Abc_NtkNodeNum(s->pNtk): 106028  , BDD limit: 127233
+FINISHED CPU 361.51 MEM 0 MAXMEM 26250096 STALE 0 MAXMEM_RSS 25370336
+<time name="ALL">361510</time>
+real 401.55
+user 367.91
+sys 178.43

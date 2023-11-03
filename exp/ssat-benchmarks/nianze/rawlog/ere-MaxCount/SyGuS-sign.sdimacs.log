@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-MaxCount/SyGuS-sign.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 0.000000e+00
+  > Time elapsed for best lower bound  =     0.00 sec
+TIMEOUT CPU 3600.12 MEM 185992 MAXMEM 189824 STALE 0 MAXMEM_RSS 140204
+<time name="ALL">3600210</time>
+real 3601.87
+user 587.06
+sys 1472.67

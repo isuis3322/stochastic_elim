@@ -1,0 +1,16 @@
+[ERROR] Currently only support "{RE,ER}-2SSAT"!
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/eval08/sdimacs/impl16.sdimacs
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 0.000000e+00
+  > Time elapsed for best lower bound  =     0.00 sec
+  > Time =     0.00 sec
+FINISHED CPU 0.04 MEM 46052 MAXMEM 46052 STALE 0 MAXMEM_RSS 0
+<time name="ALL">40</time>
+real 0.28
+user 0.12
+sys 0.12

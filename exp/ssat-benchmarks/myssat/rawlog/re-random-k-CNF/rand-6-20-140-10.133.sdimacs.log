@@ -1,0 +1,24 @@
+ssat_solver_solve2
+#level: 2
+Abc_NtkNodeNum(s->pNtk): 785  , BDD limit: 10240
+level 1: 10 element
+Exist
+existence_eliminate_scope
+Abc_NtkIsBddLogic(pNtk): 0
+Abc_NtkIsStrash(pNtk): 1
+existence_eliminate_scope_aig
+exist by BDD failed
+Abc_NtkNodeNum(s->pNtk): 18115  , BDD limit: 21738
+Build BDD success
+level 0: 10 element
+Random
+c ssat solving in ABC
+#var: 20
+s SATISFIABLE
+  > Upper bound = 9.843750e-01
+  > Lower bound = 9.843750e-01
+FINISHED CPU 0.10 MEM 49732 MAXMEM 49732 STALE 0 MAXMEM_RSS 18860
+<time name="ALL">190</time>
+real 0.28
+user 0.26
+sys 0.13

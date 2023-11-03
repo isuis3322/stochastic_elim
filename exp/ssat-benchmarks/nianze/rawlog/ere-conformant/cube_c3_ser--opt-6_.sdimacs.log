@@ -1,0 +1,15 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-conformant/cube_c3_ser--opt-6_.sdimacs
+[INFO] Starting analysis ...
+[INFO] Stopping analysis ...
+
+==== Solving results ====
+
+  > Satisfying probability: 1.000000e+00
+  > Time =     1.92 sec
+FINISHED CPU 1.86 MEM 77712 MAXMEM 77712 STALE 0 MAXMEM_RSS 30332
+<time name="ALL">1940</time>
+real 1.99
+user 2.29
+sys 0.82

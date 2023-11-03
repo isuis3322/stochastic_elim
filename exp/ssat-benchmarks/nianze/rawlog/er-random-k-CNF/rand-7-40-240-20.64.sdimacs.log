@@ -1,0 +1,15 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/er-random-k-CNF/rand-7-40-240-20.64.sdimacs
+[INFO] Starting analysis ...
+[INFO] Stopping analysis ...
+
+==== Solving results ====
+
+  > Satisfying probability: 6.578211e-01
+  > Time =   937.73 sec
+FINISHED CPU 937.60 MEM 319780 MAXMEM 319780 STALE 0 MAXMEM_RSS 249244
+<time name="ALL">937690</time>
+real 937.89
+user 1091.41
+sys 402.20

@@ -1,0 +1,15 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-sand-castle/SC-13.sdimacs
+[INFO] Starting analysis ...
+[INFO] Stopping analysis ...
+
+==== Solving results ====
+
+  > Satisfying probability: 9.886524e-01
+  > Time =   321.94 sec
+FINISHED CPU 321.83 MEM 278400 MAXMEM 278400 STALE 0 MAXMEM_RSS 230076
+<time name="ALL">321920</time>
+real 322.07
+user 374.41
+sys 133.50

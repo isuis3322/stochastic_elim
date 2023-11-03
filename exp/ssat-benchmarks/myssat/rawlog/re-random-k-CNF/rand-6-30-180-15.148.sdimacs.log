@@ -1,0 +1,23 @@
+ssat_solver_solve2
+#level: 2
+Abc_NtkNodeNum(s->pNtk): 1034  , BDD limit: 10240
+cuddGarbageCollect: problem in table 15
+  dead count != deleted
+  This problem is often due to a missing call to Cudd_Ref
+  or to an extra call to Cudd_RecursiveDeref.
+  See the CUDD Programmer's Guide for additional details.level 1: 15 element
+Exist
+existence_eliminate_scope
+Abc_NtkIsBddLogic(pNtk): 0
+Abc_NtkIsStrash(pNtk): 1
+existence_eliminate_scope_aig
+exist by BDD failed
+Abc_NtkNodeNum(s->pNtk): 798878  , BDD limit: 958653
+Build BDD success
+level 0: 15 element
+Random
+FINISHED CPU 37.02 MEM 208136 MAXMEM 208136 STALE 1 MAXMEM_RSS 163052
+<time name="ALL">37040</time>
+real 39.08
+user 42.99
+sys 15.96

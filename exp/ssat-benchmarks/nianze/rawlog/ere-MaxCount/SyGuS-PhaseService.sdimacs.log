@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-MaxCount/SyGuS-PhaseService.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 0.000000e+00
+  > Time elapsed for best lower bound  =     0.00 sec
+TIMEOUT CPU 3600.20 MEM 476104 MAXMEM 476104 STALE 2 MAXMEM_RSS 430460
+<time name="ALL">3600290</time>
+real 3604.41
+user 588.34
+sys 1427.24

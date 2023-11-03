@@ -1,0 +1,17 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/eval08/sdimacs/tree-exa10-25.sdimacs
+[INFO] Starting analysis ...
+[INFO] Stopping analysis ...
+[INFO] # of UNSAT cubes: 0
+[INFO] # of   SAT cubes: 21492
+
+==== Solving results ====
+
+  > Satisfying probability: 1.000000e+00
+  > Time =     0.60 sec
+FINISHED CPU 0.60 MEM 85108 MAXMEM 88548 STALE 0 MAXMEM_RSS 7280
+<time name="ALL">630</time>
+real 0.73
+user 0.78
+sys 0.31

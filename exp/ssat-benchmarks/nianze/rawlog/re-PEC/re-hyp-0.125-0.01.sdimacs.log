@@ -1,0 +1,15 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/re-PEC/re-hyp-0.125-0.01.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+[INFO] # of UNSAT cubes: 2
+  > Best upper bound: 1.000000e+00
+Time elapsed for upper bound =     0.38 sec
+TIMEOUT CPU 3600.06 MEM 308824 MAXMEM 856152 STALE 0 MAXMEM_RSS 574160
+<time name="ALL">3600150</time>
+real 3601.91
+user 582.79
+sys 1494.81

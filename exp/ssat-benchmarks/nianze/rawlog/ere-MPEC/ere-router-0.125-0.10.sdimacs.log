@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-MPEC/ere-router-0.125-0.10.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 0.000000e+00
+  > Time elapsed for best lower bound  =     0.00 sec
+TIMEOUT CPU 3600.07 MEM 303020 MAXMEM 317628 STALE 0 MAXMEM_RSS 270156
+<time name="ALL">3600150</time>
+real 3601.79
+user 583.70
+sys 1461.43

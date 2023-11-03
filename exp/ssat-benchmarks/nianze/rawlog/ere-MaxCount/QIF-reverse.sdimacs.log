@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-MaxCount/QIF-reverse.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 9.536743e-07
+  > Time elapsed for best lower bound  =  3038.30 sec
+TIMEOUT CPU 3600.20 MEM 137800 MAXMEM 137800 STALE 1 MAXMEM_RSS 89976
+<time name="ALL">3600280</time>
+real 3603.40
+user 588.56
+sys 1422.72

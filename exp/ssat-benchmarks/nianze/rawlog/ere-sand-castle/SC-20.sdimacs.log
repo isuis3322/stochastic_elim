@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-sand-castle/SC-20.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 9.968264e-01
+  > Time elapsed for best lower bound  =  3364.75 sec
+TIMEOUT CPU 3600.21 MEM 415484 MAXMEM 415484 STALE 0 MAXMEM_RSS 355256
+<time name="ALL">3600300</time>
+real 3601.92
+user 584.62
+sys 1501.03

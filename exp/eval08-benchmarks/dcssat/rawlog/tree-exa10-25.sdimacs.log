@@ -1,0 +1,13 @@
+     x3     x7    x11    x15    x19    x23    x27    x31    x35    x39    x43    x47    -x4    -x6    -x8   -x10   -x12   -x14   -x16   -x18   -x20   -x22   -x24   -x26   -x28   -x30   -x32   -x34   -x36   -x38   -x40   -x42   -x44   -x46   -x48   -x50
+                                                                                -x47    -x4    -x6    -x8   -x10   -x12   -x14   -x16   -x18   -x20   -x22   -x24   -x26   -x28   -x30   -x32   -x34   -x36   -x38   -x40   -x42   -x44   -x46    x48    x50
+
+solve time:              = 0.000590086
+rebuild/print time:      = 6.38962e-05
+   total time:           = 0.000653982
+
+Pr[SAT]                  =          1
+
+FINISHED CPU 0.00 MEM 0 MAXMEM -1 STALE 0 MAXMEM_RSS -1
+real 0.03
+user 0.03
+sys 0.00

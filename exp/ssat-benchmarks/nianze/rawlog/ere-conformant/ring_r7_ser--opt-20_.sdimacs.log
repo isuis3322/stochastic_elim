@@ -1,0 +1,17 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-conformant/ring_r7_ser--opt-20_.sdimacs
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 0.000000e+00
+  > Time elapsed for best lower bound  =     0.00 sec
+TIMEOUT CPU 3600.12 MEM 361116 MAXMEM 361116 STALE 0 MAXMEM_RSS 303924
+<time name="ALL">3600200</time>
+real 3601.83
+user 583.02
+sys 1495.66

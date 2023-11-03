@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/re-random-k-CNF/rand-5-50-350-25.196.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+[INFO] # of UNSAT cubes: 175444
+Warning: Cube number exceeds the limit (60000)!
+Warning: Do not compute the upper bound because BDD may fail ...
+[INFO] # of   SAT cubes: 870374
+Warning: Cube number exceeds the limit (60000)!
+Warning: Do not compute the lower bound because BDD may fail ...
+TIMEOUT CPU 3600.05 MEM 414844 MAXMEM 494984 STALE 0 MAXMEM_RSS 401200
+<time name="ALL">3600140</time>
+real 3601.77
+user 583.22
+sys 1494.25

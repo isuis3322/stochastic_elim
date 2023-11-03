@@ -1,0 +1,15 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-ToiletA/toilet_a_04_01.7.sdimacs
+[INFO] Starting analysis ...
+[INFO] Stopping analysis ...
+
+==== Solving results ====
+
+  > Satisfying probability: 5.000000e-01
+  > Time =     2.51 sec
+FINISHED CPU 2.44 MEM 83176 MAXMEM 84908 STALE 0 MAXMEM_RSS 34112
+<time name="ALL">2520</time>
+real 2.58
+user 2.96
+sys 1.03

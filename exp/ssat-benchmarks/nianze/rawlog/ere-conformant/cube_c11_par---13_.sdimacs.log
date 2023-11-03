@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-conformant/cube_c11_par---13_.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 3.505859e-01
+  > Time elapsed for best lower bound  =  1991.48 sec
+TIMEOUT CPU 3600.23 MEM 461412 MAXMEM 461412 STALE 0 MAXMEM_RSS 401336
+<time name="ALL">3600310</time>
+real 3601.93
+user 580.74
+sys 1483.81

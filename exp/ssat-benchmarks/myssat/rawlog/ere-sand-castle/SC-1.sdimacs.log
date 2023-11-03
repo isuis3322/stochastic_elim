@@ -1,0 +1,11 @@
+Error: Probility of random var is not 0.5
+Error: Probility of random var is not 0.5
+Error: Probility of random var is not 0.5
+c ssat solving in ABC
+#var: 11
+s UNSUPPORT
+FINISHED CPU 0.03 MEM 45620 MAXMEM 45620 STALE 0 MAXMEM_RSS 3752
+<time name="ALL">40</time>
+real 0.29
+user 0.12
+sys 0.12

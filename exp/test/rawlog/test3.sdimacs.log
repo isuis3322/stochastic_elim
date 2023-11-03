@@ -1,0 +1,13 @@
+    x1
+   -x1   -x2
+
+solve time:              = 0.000174999
+rebuild/print time:      = 6.29425e-05
+   total time:           = 0.000237942
+
+Pr[SAT]                  =       0.75
+
+FINISHED CPU 0.00 MEM 0 MAXMEM -1 STALE 0 MAXMEM_RSS -1
+real 0.05
+user 0.04
+sys 0.00

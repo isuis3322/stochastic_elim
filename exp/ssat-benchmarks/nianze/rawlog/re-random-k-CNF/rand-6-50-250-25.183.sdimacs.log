@@ -1,0 +1,17 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/re-random-k-CNF/rand-6-50-250-25.183.sdimacs
+[INFO] Starting analysis ...
+[INFO] Stopping analysis ...
+[INFO] # of UNSAT cubes: 61
+[INFO] # of   SAT cubes: 71931
+
+==== Solving results ====
+
+  > Satisfying probability: 9.610111e-01
+  > Time =    15.54 sec
+FINISHED CPU 15.42 MEM 97588 MAXMEM 101988 STALE 0 MAXMEM_RSS 31044
+<time name="ALL">15510</time>
+real 15.62
+user 18.07
+sys 6.50

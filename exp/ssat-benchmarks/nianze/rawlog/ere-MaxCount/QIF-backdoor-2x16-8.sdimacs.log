@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-MaxCount/QIF-backdoor-2x16-8.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 5.960464e-08
+  > Time elapsed for best lower bound  =     0.13 sec
+TIMEOUT CPU 3600.06 MEM 116508 MAXMEM 116508 STALE 0 MAXMEM_RSS 68912
+<time name="ALL">3600160</time>
+real 3601.76
+user 587.72
+sys 1438.39

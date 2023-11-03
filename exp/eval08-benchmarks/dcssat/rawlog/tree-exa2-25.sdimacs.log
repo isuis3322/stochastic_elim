@@ -1,0 +1,12 @@
+   -x25    x49    x24    x23    x22    x21    x20    x19    x18    x17    x16    x15    x14    x13    x12    x11    x10     x9     x8     x7     x6     x5     x4     x3     x2     x1
+
+solve time:              = 0.000602007
+rebuild/print time:      = 7.20024e-05
+   total time:           = 0.000674009
+
+Pr[SAT]                  =          1
+
+FINISHED CPU 0.00 MEM 0 MAXMEM -1 STALE 0 MAXMEM_RSS -1
+real 0.03
+user 0.03
+sys 0.00

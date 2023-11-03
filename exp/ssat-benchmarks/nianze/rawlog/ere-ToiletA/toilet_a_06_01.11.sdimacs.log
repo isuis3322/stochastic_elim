@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-ToiletA/toilet_a_06_01.11.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 5.000000e-01
+  > Time elapsed for best lower bound  =    12.17 sec
+TIMEOUT CPU 3600.18 MEM 2530292 MAXMEM 2530292 STALE 0 MAXMEM_RSS 2386408
+<time name="ALL">3600280</time>
+real 3601.96
+user 582.96
+sys 1512.19

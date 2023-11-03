@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/re-PEC/re-c5315-0.125-0.01.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+[INFO] # of UNSAT cubes: 28
+  > Best upper bound: 9.657352e-01
+Time elapsed for upper bound =     0.03 sec
+[INFO] # of   SAT cubes: 1380048
+Warning: Cube number exceeds the limit (60000)!
+Warning: Do not compute the lower bound because BDD may fail ...
+TIMEOUT CPU 3600.11 MEM 1635476 MAXMEM 1635476 STALE 0 MAXMEM_RSS 1372864
+<time name="ALL">3600190</time>
+real 3601.81
+user 583.59
+sys 1481.33

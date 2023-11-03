@@ -1,0 +1,143 @@
+*** Error in `../../bin/ssatABC/bin/abc': double free or corruption (!prev): 0x0000000010ee5580 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x81329)[0x7f61cc5c7329]
+../../bin/ssatABC/bin/abc[0x109ad12]
+../../bin/ssatABC/bin/abc[0x48b083]
+../../bin/ssatABC/bin/abc[0x479716]
+/lib64/libc.so.6(+0x36450)[0x7f61cc57c450]
+../../bin/ssatABC/bin/abc[0x108aa6b]
+../../bin/ssatABC/bin/abc[0x1076fb4]
+../../bin/ssatABC/bin/abc[0x1078ee8]
+../../bin/ssatABC/bin/abc[0x107baa4]
+../../bin/ssatABC/bin/abc[0x107c738]
+../../bin/ssatABC/bin/abc[0x108a1c6]
+../../bin/ssatABC/bin/abc[0x109c9d5]
+../../bin/ssatABC/bin/abc[0x105a7a2]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a711]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+../../bin/ssatABC/bin/abc[0x105a73e]
+======= Memory map: ========
+00400000-013fb000 r-xp 00000000 fd:02 867406756                          /home/isuis3322/work/stochastic_elim/bin/ssatABC/bin/abc
+015fa000-015fb000 r--p 00ffa000 fd:02 867406756                          /home/isuis3322/work/stochastic_elim/bin/ssatABC/bin/abc
+015fb000-01697000 rw-p 00ffb000 fd:02 867406756                          /home/isuis3322/work/stochastic_elim/bin/ssatABC/bin/abc
+01697000-01972000 rw-p 00000000 00:00 0 
+0303c000-1b44b000 rw-p 00000000 00:00 0                                  [heap]
+7f61c4000000-7f61c4021000 rw-p 00000000 00:00 0 
+7f61c4021000-7f61c8000000 ---p 00000000 00:00 0 
+7f61ca422000-7f61ca598000 rw-p 00000000 00:00 0 
+7f61ca699000-7f61cba9a000 rw-p 00000000 00:00 0 
+7f61cc31c000-7f61cc341000 r-xp 00000000 fd:00 33684267                   /usr/lib64/libtinfo.so.5.9
+7f61cc341000-7f61cc541000 ---p 00025000 fd:00 33684267                   /usr/lib64/libtinfo.so.5.9
+7f61cc541000-7f61cc545000 r--p 00025000 fd:00 33684267                   /usr/lib64/libtinfo.so.5.9
+7f61cc545000-7f61cc546000 rw-p 00029000 fd:00 33684267                   /usr/lib64/libtinfo.so.5.9
+7f61cc546000-7f61cc70a000 r-xp 00000000 fd:00 33684062                   /usr/lib64/libc-2.17.so
+7f61cc70a000-7f61cc909000 ---p 001c4000 fd:00 33684062                   /usr/lib64/libc-2.17.so
+7f61cc909000-7f61cc90d000 r--p 001c3000 fd:00 33684062                   /usr/lib64/libc-2.17.so
+7f61cc90d000-7f61cc90f000 rw-p 001c7000 fd:00 33684062                   /usr/lib64/libc-2.17.so
+7f61cc90f000-7f61cc914000 rw-p 00000000 00:00 0 
+7f61cc914000-7f61cc929000 r-xp 00000000 fd:00 40412661                   /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+7f61cc929000-7f61ccb28000 ---p 00015000 fd:00 40412661                   /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+7f61ccb28000-7f61ccb29000 r--p 00014000 fd:00 40412661                   /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+7f61ccb29000-7f61ccb2a000 rw-p 00015000 fd:00 40412661                   /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+7f61ccb2a000-7f61ccc2b000 r-xp 00000000 fd:00 33684070                   /usr/lib64/libm-2.17.so
+7f61ccc2b000-7f61cce2a000 ---p 00101000 fd:00 33684070                   /usr/lib64/libm-2.17.so
+7f61cce2a000-7f61cce2b000 r--p 00100000 fd:00 33684070                   /usr/lib64/libm-2.17.so
+7f61cce2b000-7f61cce2c000 rw-p 00101000 fd:00 33684070                   /usr/lib64/libm-2.17.so
+7f61cce2c000-7f61ccff5000 r-xp 00000000 fd:00 38825317                   /usr/lib64/libstdc++.so.6.0.27
+7f61ccff5000-7f61cd1f4000 ---p 001c9000 fd:00 38825317                   /usr/lib64/libstdc++.so.6.0.27
+7f61cd1f4000-7f61cd1ff000 r--p 001c8000 fd:00 38825317                   /usr/lib64/libstdc++.so.6.0.27
+7f61cd1ff000-7f61cd202000 rw-p 001d3000 fd:00 38825317                   /usr/lib64/libstdc++.so.6.0.27
+7f61cd202000-7f61cd205000 rw-p 00000000 00:00 0 
+7f61cd205000-7f61cd20c000 r-xp 00000000 fd:00 33684092                   /usr/lib64/librt-2.17.so
+7f61cd20c000-7f61cd40b000 ---p 00007000 fd:00 33684092                   /usr/lib64/librt-2.17.so
+7f61cd40b000-7f61cd40c000 r--p 00006000 fd:00 33684092                   /usr/lib64/librt-2.17.so
+7f61cd40c000-7f61cd40d000 rw-p 00007000 fd:00 33684092                   /usr/lib64/librt-2.17.so
+7f61cd40d000-7f61cd40f000 r-xp 00000000 fd:00 33684068                   /usr/lib64/libdl-2.17.so
+7f61cd40f000-7f61cd60f000 ---p 00002000 fd:00 33684068                   /usr/lib64/libdl-2.17.so
+7f61cd60f000-7f61cd610000 r--p 00002000 fd:00 33684068                   /usr/lib64/libdl-2.17.so
+7f61cd610000-7f61cd611000 rw-p 00003000 fd:00 33684068                   /usr/lib64/libdl-2.17.so
+7f61cd611000-7f61cd628000 r-xp 00000000 fd:00 33684088                   /usr/lib64/libpthread-2.17.so
+7f61cd628000-7f61cd827000 ---p 00017000 fd:00 33684088                   /usr/lib64/libpthread-2.17.so
+7f61cd827000-7f61cd828000 r--p 00016000 fd:00 33684088                   /usr/lib64/libpthread-2.17.so
+7f61cd828000-7f61cd829000 rw-p 00017000 fd:00 33684088                   /usr/lib64/libpthread-2.17.so
+7f61cd829000-7f61cd82d000 rw-p 00000000 00:00 0 
+7f61cd82d000-7f61cd869000 r-xp 00000000 fd:00 33684424                   /usr/lib64/libreadline.so.6.2
+7f61cd869000-7f61cda69000 ---p 0003c000 fd:00 33684424                   /usr/lib64/libreadline.so.6.2
+7f61cda69000-7f61cda6b000 r--p 0003c000 fd:00 33684424                   /usr/lib64/libreadline.so.6.2
+7f61cda6b000-7f61cda71000 rw-p 0003e000 fd:00 33684424                   /usr/lib64/libreadline.so.6.2
+7f61cda71000-7f61cda73000 rw-p 00000000 00:00 0 
+7f61cda73000-7f61cda95000 r-xp 00000000 fd:00 33684055                   /usr/lib64/ld-2.17.so
+7f61cdb2d000-7f61cdc1a000 rw-p 00000000 00:00 0 
+7f61cdc70000-7f61cdc77000 rw-p 00000000 00:00 0 
+7f61cdc91000-7f61cdc94000 rw-p 00000000 00:00 0 
+7f61cdc94000-7f61cdc95000 r--p 00021000 fd:00 33684055                   /usr/lib64/ld-2.17.so
+7f61cdc95000-7f61cdc96000 rw-p 00022000 fd:00 33684055                   /usr/lib64/ld-2.17.so
+7f61cdc96000-7f61cdc97000 rw-p 00000000 00:00 0 
+7ffe9b053000-7ffe9b1e2000 rw-p 00000000 00:00 0                          [stack]
+7ffe9b1e4000-7ffe9b1e6000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-MaxCount/SyGuS-ActivityService2.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 0.000000e+00
+  > Time elapsed for best lower bound  =     0.00 sec
+TIMEOUT CPU 3600.01 MEM 476048 MAXMEM 476048 STALE 1 MAXMEM_RSS 428784
+<time name="ALL">3600090</time>
+real 3604.05
+user 588.55
+sys 1408.72

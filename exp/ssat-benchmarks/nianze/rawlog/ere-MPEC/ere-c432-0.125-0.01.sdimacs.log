@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-MPEC/ere-c432-0.125-0.01.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 2.343750e-01
+  > Time elapsed for best lower bound  =    90.55 sec
+TIMEOUT CPU 3600.13 MEM 2434008 MAXMEM 2434008 STALE 0 MAXMEM_RSS 2333828
+<time name="ALL">3600210</time>
+real 3601.85
+user 585.94
+sys 1469.78

@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/er-random-k-CNF/rand-7-50-300-25.81.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 6.267991e-01
+  > Time elapsed for best lower bound  =  1752.56 sec
+TIMEOUT CPU 3600.18 MEM 580244 MAXMEM 580244 STALE 0 MAXMEM_RSS 483700
+<time name="ALL">3600280</time>
+real 3601.95
+user 586.81
+sys 1542.94

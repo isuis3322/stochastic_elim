@@ -1,0 +1,17 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/re-strategic-company/x60.14.sdimacs
+[INFO] Starting analysis ...
+[INFO] Stopping analysis ...
+[INFO] # of UNSAT cubes: 217
+[INFO] # of   SAT cubes: 3371
+
+==== Solving results ====
+
+  > Satisfying probability: 1.000000e+00
+  > Time =     9.65 sec
+FINISHED CPU 9.62 MEM 99496 MAXMEM 99496 STALE 0 MAXMEM_RSS 24756
+<time name="ALL">9670</time>
+real 9.75
+user 11.26
+sys 4.00

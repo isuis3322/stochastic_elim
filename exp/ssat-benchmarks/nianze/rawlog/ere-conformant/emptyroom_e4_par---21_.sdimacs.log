@@ -1,0 +1,18 @@
+ABC command line: "ssat".
+
+[INFO] Input sdimacs file: ../../testcases/ssat-benchmarks/ere-conformant/emptyroom_e4_par---21_.sdimacs
+[INFO] Starting analysis ...
+
+Warning: Interruption occurs!
+Warning: Reporting solving results before termination ...
+
+==== Solving results ====
+
+  > Best upper bound: 1.000000e+00
+  > Best lower bound: 1.171875e-02
+  > Time elapsed for best lower bound  =  2733.90 sec
+TIMEOUT CPU 3600.20 MEM 337984 MAXMEM 337984 STALE 0 MAXMEM_RSS 285200
+<time name="ALL">3600280</time>
+real 3601.94
+user 581.05
+sys 1492.77
